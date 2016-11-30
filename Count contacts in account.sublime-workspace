@@ -1,0 +1,560 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"is",
+				"isUpdate"
+			],
+			[
+				"ge",
+				"genre"
+			],
+			[
+				"inp",
+				"apex:inputField"
+			],
+			[
+				"text",
+				"textarea\tTag"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"te",
+				"text-transform"
+			],
+			[
+				"t",
+				"type\tAttr"
+			],
+			[
+				"box-",
+				"box-shadow"
+			],
+			[
+				"c",
+				"cursor"
+			],
+			[
+				"u",
+				"uppercase"
+			],
+			[
+				"col",
+				"color"
+			],
+			[
+				"im",
+				"important"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"bc",
+				"background-color"
+			],
+			[
+				"i",
+				"inline"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"ba",
+				"background-repeat"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"h",
+				"height"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"b",
+				"background"
+			],
+			[
+				"ml",
+				"margin-left"
+			],
+			[
+				"mt",
+				"margin-top"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"fz",
+				"font-size"
+			],
+			[
+				"m",
+				"margin"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"mr",
+				"margin-right"
+			],
+			[
+				"mar",
+				"margin-left"
+			],
+			[
+				"bo",
+				"border"
+			],
+			[
+				"co",
+				"cover"
+			],
+			[
+				"tr",
+				"transition"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"min",
+				"min-width"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "src/triggers/CountContactsTrigger.trigger",
+			"settings":
+			{
+				"buffer_size": 530,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 35.0,
+		"last_filter": "package control:in",
+		"selected_items":
+		[
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"package control setti",
+				"Preferences: Package Control Settings – User"
+			],
+			[
+				"package control:inst",
+				"Package Control: Install Package"
+			],
+			[
+				"package control:r",
+				"Package Control: Remove Package"
+			],
+			[
+				"preferences co",
+				"Preferences: Package Control Settings – Default"
+			],
+			[
+				"upgr",
+				"Package Control: Upgrade Package"
+			],
+			[
+				"package install",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 432.0
+	},
+	"console":
+	{
+		"height": 181.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = 'df21e130d211cfc94d9b0905775a7c0f' + '1e3d39e33b79698005270310898eea76'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/1/Documents/projects/Count contacts in account",
+		"/C/Users/1/Documents/projects/Count contacts in account/src",
+		"/C/Users/1/Documents/projects/Count contacts in account/src/triggers"
+	],
+	"file_history":
+	[
+		"/C/Users/1/Documents/projects/Camilla's Custom Vinyl/src/pages/SongVF.page-meta.xml",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/User/mavensmate.sublime-settings",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/MavensMate/mavensmate.sublime-settings",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/1/AppData/Roaming/Sublime Text 3/Packages/User/Package Control.sublime-settings",
+		"/C/Users/1/Documents/projects/Camilla's Custom Vinyl/src/classes/Song.cls-meta.xml",
+		"/C/Users/1/Documents/projects/Camilla's Custom Vinyl/src/pages/SongVF.page",
+		"/C/Users/1/Documents/projects/First",
+		"/C/Users/1/abcrem.com/index.html",
+		"/C/Users/1/1405market.ru/index.html",
+		"/C/Users/1/uniMail-master/script/index.html",
+		"/C/Users/1/gpsbaby.ru/index.html",
+		"/C/Users/1/gpsbaby.ru/smart-baby-watch/index.html",
+		"/C/Users/1/gpsbaby.ru/gpsbaby/index.html",
+		"/C/Users/1/Documents/projects/First/.gitignore",
+		"/C/Users/1/Downloads/profile (1)/css/style.css"
+	],
+	"find":
+	{
+		"height": 31.0
+	},
+	"find_in_files":
+	{
+		"height": 96.0,
+		"where_history":
+		[
+			"C:\\Users\\1\\Downloads\\LedCross\\img"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"?",
+			"@",
+			"user_form_submit",
+			"@",
+			".block",
+			"main_menu",
+			"main_menu li a",
+			"location_btn",
+			"main_menu",
+			"font-size",
+			"@font-face",
+			"modal_rating",
+			"viewer_award",
+			"admin_award",
+			"navbar_btn",
+			"location_btn",
+			".main_menu",
+			"profile_tel",
+			"col-md-3",
+			"logo",
+			"viewer_pic",
+			"col-md-7",
+			"col-7",
+			"four_",
+			"profile_reviews",
+			"profile_review",
+			"show_more",
+			"#profile_description",
+			"profile_description",
+			"profile_price",
+			"profile_description",
+			"modal-footer",
+			"agree",
+			"this.options.image",
+			"background",
+			"add_review",
+			"modal-body",
+			"add_review_btn",
+			"fade",
+			"modal_contacts",
+			"modal fade",
+			"vote-stars",
+			"add_review_rating",
+			"fade",
+			"profile_publication ",
+			"profile_publication hover",
+			"profile_pu",
+			"textarea.form-control",
+			"fade",
+			"textarea.form-control",
+			"form-control",
+			"add_review_message",
+			"fade",
+			"modal fade",
+			"modal fade ",
+			"add_review_btn",
+			"profile_review_answer",
+			".profile_review",
+			".profile_review_text",
+			"profile_review",
+			"learn_more",
+			"btn-default-radius",
+			"profile_description_tabs",
+			"review_block",
+			"review_block clear",
+			"viewer_like",
+			"viewer_ove",
+			"box-shadow",
+			"butt",
+			".container .col-md",
+			".col-md",
+			".col-md-5",
+			"col-md-7",
+			".map",
+			"viewer_wrap",
+			".map",
+			"viewer_wrap grid_item ",
+			"viewer_wrap ",
+			"viewer_wrap grid_item",
+			"viewers",
+			"views",
+			"a:hover",
+			"a: hover",
+			"}*/\n",
+			"profile_price_item",
+			"profile_price_list",
+			".btn-default:focus, .btn-default.focus",
+			"modal-body",
+			".modal-body",
+			"modal-body",
+			"modal_body",
+			".error_message",
+			".check",
+			"error_message",
+			".hide-tail",
+			"profile_avatar",
+			"modal-container",
+			"profile_avatar",
+			"profile_avatar_wrap",
+			"a {",
+			"a",
+			"a ",
+			".a ",
+			"profile_description_tabs_nav a",
+			"modal-body",
+			"modal-content",
+			"btn-group",
+			"profile_conta",
+			"nav ",
+			"navbar-nav ",
+			" navbar-right",
+			"nav navbar-nav navbar-right",
+			"auth_btn",
+			"location_btn",
+			"auth_btn",
+			"location_btn",
+			".btn-default",
+			".location_btn",
+			".location_btn:after",
+			"location_btn",
+			"profile",
+			".main_menu",
+			"logo",
+			"slick_",
+			"transform:t",
+			"transform:",
+			"transform",
+			"slick-initialized"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			""
+		],
+		"reverse": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "src/triggers/CountContactsTrigger.trigger",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 530,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								516,
+								516
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 71.0,
+						"translation.y": 186.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.MavensMate-OutputPanel":
+	{
+		"height": 148.0
+	},
+	"output.exec":
+	{
+		"height": 148.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Count contacts in account.sublime-project",
+	"replace":
+	{
+		"height": 58.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 173.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"MixController"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 282.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

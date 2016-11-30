@@ -1,0 +1,17 @@
+{
+    "projectName": "Count contacts in account",
+    "username": "dmitry@sales.com",
+    "id": "b9f19950-b6d0-11e6-b086-89f6c117183a",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap2.salesforce.com",
+    "workspace": "C:\\Users\\1\\Documents\\projects",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}
