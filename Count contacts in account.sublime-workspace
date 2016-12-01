@@ -175,7 +175,16 @@
 			"file": "src/triggers/CountContactsTrigger.trigger",
 			"settings":
 			{
-				"buffer_size": 530,
+				"buffer_size": 1061,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "src/classes/CountContactsController.cls",
+			"settings":
+			{
+				"buffer_size": 895,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -240,12 +249,6 @@
 		"side_bar_visible": false,
 		"status_bar_visible": false
 	},
-	"expanded_folders":
-	[
-		"/C/Users/1/Documents/projects/Count contacts in account",
-		"/C/Users/1/Documents/projects/Count contacts in account/src",
-		"/C/Users/1/Documents/projects/Count contacts in account/src/triggers"
-	],
 	"file_history":
 	[
 		"/C/Users/1/Documents/projects/Camilla's Custom Vinyl/src/pages/SongVF.page-meta.xml",
@@ -437,15 +440,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 530,
+						"buffer_size": 1061,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								516,
-								516
+								167,
+								167
 							]
 						],
 						"settings":
@@ -453,11 +456,41 @@
 							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
 							"translate_tabs_to_spaces": false
 						},
-						"translation.x": 71.0,
-						"translation.y": 186.0,
+						"translation.x": 0.0,
+						"translation.y": 0.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "src/classes/CountContactsController.cls",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 895,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								360,
+								360
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/MavensMate/sublime/lang/Apex.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
 					"type": "text"
 				}
 			]
